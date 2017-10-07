@@ -1153,9 +1153,9 @@ int main() {
       }
 
       dlgHBoxLayout {
-        dlgGroup("Fill Polygon") {
-          dlgRadioButton("&Line Only", GUI_fill);    // GUI_fill = 0
-          dlgRadioButton("&Fill", GUI_fill);         // GUI_fill = 1
+        dlgGroup("Import polylines as") {
+          dlgRadioButton("&Polyline", GUI_fill);        // GUI_fill = 0
+          dlgRadioButton("&Polygon", GUI_fill);         // GUI_fill = 1
         }
       }
 
