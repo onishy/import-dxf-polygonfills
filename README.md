@@ -4,7 +4,7 @@ EAGLE ULP for importing vector graphics - with polygon fill option
 ## Usage
 
 1. Load `import-dxf-polygonfills.ulp`  to Eagle, then you will find "Fill Polygon" option in the middle.
-2. Choose "Fill" to fill all polygons in dxf.
+2. Choose "Fill" to import all polylines as polygon in dxf.
    * If you choose "Line Only", the script behaves completely same as original.
 
 ![Screenshot](./screenshot.png)
