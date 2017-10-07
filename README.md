@@ -9,6 +9,12 @@ EAGLE ULP for importing vector graphics - with "Import polylines as" option
 
 ![Screenshot](./screenshot.png)
 
+### Outputs
+
+Imported polygons after ratsnest
+
+![Results](./results.png)
+
 ## Note
 
 I do not guarantee the results. Polygons with arcs and command line mode haven't been tested yet.
